@@ -1,5 +1,5 @@
 /*
-Autor= Guillermo Daniel Cruz Ortega
+Autor= Stephanie Jacqueline Lagunas González.
 Fecha creacion= 15/03/2022
 Fecha actualizacion= 28/03/2022
 Descripcion= Servlet de listar usuarios del paquete controller
@@ -28,6 +28,7 @@ public class ListarUsuarioServlet extends HttpServlet {
         out.println("<html>");
         out.println("<head>");
         out.println("<link rel='stylesheet' href='" + request.getContextPath() + "/Resources/CSS/estiloIndex.css'>");
+        out.print("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">");
         out.println("</head>");
         out.println("<body>");
         out.println("<section class='forma'>");
@@ -51,7 +52,7 @@ public class ListarUsuarioServlet extends HttpServlet {
         out.println("</section>");
         out.println("<section class='forma_tabla'>");
         out.println("<h1> Tabla Usuarios </h1>");
-        out.println("<table border='2'>");
+        out.println("<table border='2'");
         out.println("<tr>");
         out.println("<th>Nombre Usuario</th>");
         out.println("<th>Contraseña</th>");

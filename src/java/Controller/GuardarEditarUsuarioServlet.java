@@ -1,5 +1,5 @@
 /*
-Autor= Guillermo Daniel Cruz Ortega
+Autor= Stephanie Jacqueline Lagunas González.
 Fecha creacion= 17/03/2022
 Fecha actualizacion= 22/03/2022
 Descripcion= Servlet guardar y editar del paquete controller

@@ -1,5 +1,5 @@
 /*
-Autor= Guillermo Daniel Cruz Ortega
+Autor= Stephanie Jacqueline Lagunas González.
 Fecha creacion= 16/03/2022
 Fecha actualizacion= 16/03/2022
 Descripcion= Interface de usuario del paquete Service

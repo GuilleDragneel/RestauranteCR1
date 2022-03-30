@@ -1,5 +1,5 @@
 /*
-Autor= Guillermo Daniel Cruz Ortega
+Autor=Stephanie Jacqueline Lagunas González.
 Fecha creacion= 23/03/2022
 Fecha actualizacion= 24/03/2022
 Descripcion= Servlet de guardar y crear usuario 

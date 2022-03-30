@@ -1,5 +1,5 @@
 /*
-Autor= Guillermo Daniel Cruz Ortega
+Autor= Stephanie Jacqueline Lagunas González.
 Fecha creacion= 08/03/2022
 Fecha actualizacion= 14/03/2022
 Descripcion= Paquete de base de datos
@@ -13,7 +13,7 @@ public class Conexion {
     private Connection connection;
     private String url = "localhost";
     private String user = "postgres";
-    private String pwd = "guille";
+    private String pwd = "fany";
     private String bd = "rcm";
 
     public Conexion() {

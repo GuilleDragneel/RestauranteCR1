@@ -1,5 +1,5 @@
 /*
-Autor= Guillermo Daniel Cruz Ortega
+Autor= Stephanie Jacqueline Lagunas González.
 Fecha creacion= 11/03/2022
 Fecha actualizacion= 11/03/2022
 Descripcion= Interface usuario en paquete de modelo

@@ -1,5 +1,5 @@
 /*
-Autor= Guillermo Daniel Cruz Ortega
+Autor= Stephanie Jacqueline Lagunas González.
 Fecha creacion= 11/03/2022
 Fecha actualizacion= 15/03/2022
 Descripcion= Implementacion interface usuario 
@@ -129,19 +129,19 @@ public class UsuarioModelImpl implements IUsuarioModel {
 
     public static void main(String[] args) {
         Usuario a = new Usuario();
-//        a.setcodigo("1");
-//        a.setnombre_usuario("Hice King");
-//        a.setcontraseña("bett");
-//        a.setNombre("Simon");
-//        a.setSexo("Hombre");
-//        a.setEdad(1880);
+        a.setcodigo("1");
+        a.setnombre_usuario("Hice King");
+        a.setcontraseña("bett");
+        a.setNombre("Simon");
+        a.setSexo("Hombre");
+        a.setEdad(1880);
         UsuarioModelImpl um = new UsuarioModelImpl();
 
         um.crearRegisto(a);
         //um.actualizarRegistro(a);
         //um.eliminarResgistro(1);
-        a = um.obtenerRegistro(3);
-        System.out.println(a.getNombre());
+//        a = um.obtenerRegistro(3);
+//        System.out.println(a.getNombre());
 
         List<Usuario> listaUsuario = um.obtenerRegistros();
 
